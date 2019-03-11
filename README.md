@@ -1,7 +1,7 @@
 Here are two necessary files for running java selenium to take screenshots of webpages automatically. 
 1) selenium-webdriver jar file and
 2) the java project ss.rar
-The chromedriver.exe file is not necessary now.
+  The chromedriver.exe file is not necessary now.
 
 Steps for running the java project:
 1) Download  the two files.
@@ -12,4 +12,13 @@ Steps for running the java project:
 6) Click on the 'ss' on the left side of eclipse/netbeans, there will be a folder named 'Libraries', right click on that folder and
   select 'Add Jar/Folder' option, then select the selenium-webdriver jar file.
 7)Then select 'Source Packeges' -> ss -> Ss.java, and open the Ss.java file
-8) Finally, run the program.
+8) Finally, run the program and check if it works or not.
+
+
+
+And for the html file:
+1. Download it and open it with any web browser .
+2. For edit the code, open it with notepad/notepad++.
+3. In the html file, we are using Google- JAVAscript API for finding any place's Traffic Layer Map.
+You can set various area by changing the latitude-longitude of that area.
+4. The we can capture screenshot by running the JAVA program using this html file instead of url, but the problem is, this html file shows satelite view instead of map view when we refresh the html file.
