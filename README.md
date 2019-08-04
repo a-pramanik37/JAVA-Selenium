@@ -21,4 +21,4 @@ And for the html file:
 2. For edit the code, open it with notepad/notepad++.
 3. In the html file, we are using Google- JAVAscript API for finding any place's Traffic Layer Map.
 You can set various area by changing the latitude-longitude of that area.
-4. The we can capture screenshot by running the JAVA program using this html file instead of url, but the problem is, this html file shows satelite view instead of map view when we refresh the html file.
+4. The we can capture screenshot by running the JAVA program using this html files location on hard disc
