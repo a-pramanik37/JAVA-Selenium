@@ -22,3 +22,6 @@ And for the html file:
 3. In the html file, we are using Google- JAVAscript API for finding any place's Traffic Layer Map.
 You can set various area by changing the latitude-longitude of that area.
 4. The we can capture screenshot by running the JAVA program using this html files location on hard disc
+
+
+*** you may update or download the newest version of selenium webdriver for google chrome!!
