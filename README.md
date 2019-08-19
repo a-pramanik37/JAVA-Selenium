@@ -18,10 +18,10 @@ Steps for running the java project:
 
 And for the html file:
 1. Download it and open it with any web browser .
-2. For edit the code, open it with notepad/notepad++.
+2. For editting the code, open it with notepad/notepad++.
 3. In the html file, we are using Google- JAVAscript API for finding any place's Traffic Layer Map.
 You can set various area by changing the latitude-longitude of that area.
-4. The we can capture screenshot by running the JAVA program using this html files location on hard disc
+4. Then we can capture screenshot by running the JAVA program using this html files located on hard disc
 
 
 *** you may update or download the newest version of selenium webdriver for google chrome!!
